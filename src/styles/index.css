@@ -56,6 +56,8 @@ input {
     width: 26rem;
     border-radius: 10%;
     opacity: 0.6;
+    color: red;
+    font-weight: 700;
 
 }
 
